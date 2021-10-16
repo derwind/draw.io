@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T06:43:07.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7cO7FyyY7gViJywY0587" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T06:55:24.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="J-DOZIEn2XI5soyM7tTw" version="15.5.4" type="github">
   <diagram id="OjK8r2xayaSwBUzU3Jj6" name="Page-1">
     <mxGraphModel dx="532" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,17 +117,59 @@
         <mxCell id="jmamQArgGEQ1hFl3yV5m-25" value="コンポーネントID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="40" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jmamQArgGEQ1hFl3yV5m-26" value="木" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=100;fontFamily=源ノ明朝 JP;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25BA%2590%25E3%2583%258E%25E6%2598%258E%25E6%259C%259D%2BJP;" parent="1" vertex="1">
-          <mxGeometry x="120" y="260" width="150" height="130" as="geometry" />
+        <mxCell id="jmamQArgGEQ1hFl3yV5m-26" value="木" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=源ノ明朝 JP;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25BA%2590%25E3%2583%258E%25E6%2598%258E%25E6%259C%259D%2BJP;" parent="1" vertex="1">
+          <mxGeometry x="150" y="90" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jmamQArgGEQ1hFl3yV5m-27" value="木" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=100;fontFamily=ロックンロール One;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%2BOne;" parent="1" vertex="1">
-          <mxGeometry x="250" y="260" width="150" height="130" as="geometry" />
+        <mxCell id="jmamQArgGEQ1hFl3yV5m-27" value="木" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=ロックンロール One;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%2BOne;" parent="1" vertex="1">
+          <mxGeometry x="150" y="130" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jmamQArgGEQ1hFl3yV5m-28" value="木" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=100;fontFamily=ドットゴシック16;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%2589%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B4%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF16;" parent="1" vertex="1">
-          <mxGeometry x="360" y="190" width="150" height="130" as="geometry" />
+        <mxCell id="jmamQArgGEQ1hFl3yV5m-28" value="木" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=ドットゴシック16;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%2589%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B4%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF16;" parent="1" vertex="1">
+          <mxGeometry x="150" y="170" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jmamQArgGEQ1hFl3yV5m-29" value="木" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=100;fontFamily=Helvetica;;" parent="1" vertex="1">
-          <mxGeometry x="390" y="300" width="150" height="130" as="geometry" />
+        <mxCell id="jmamQArgGEQ1hFl3yV5m-29" value="木" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=MotoyaLMaru;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMotoyaLMaru;" parent="1" vertex="1">
+          <mxGeometry x="150" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-1" value="才" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=源ノ明朝 JP;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25BA%2590%25E3%2583%258E%25E6%2598%258E%25E6%259C%259D%2BJP;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-2" value="才" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=ロックンロール One;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%2BOne;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-3" value="才" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=ドットゴシック16;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%2589%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B4%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-4" value="才" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=MotoyaLMaru;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMotoyaLMaru;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-5" value="貝" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=源ノ明朝 JP;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25BA%2590%25E3%2583%258E%25E6%2598%258E%25E6%259C%259D%2BJP;" vertex="1" parent="1">
+          <mxGeometry x="270" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-6" value="貝" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=ロックンロール One;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%2BOne;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-7" value="貝" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=ドットゴシック16;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%2589%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B4%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-8" value="貝" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=MotoyaLMaru;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMotoyaLMaru;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-9" value="冓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=源ノ明朝 JP;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25BA%2590%25E3%2583%258E%25E6%2598%258E%25E6%259C%259D%2BJP;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-10" value="冓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=ロックンロール One;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%2BOne;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-11" value="冓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=ドットゴシック16;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%2589%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B4%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF16;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-12" value="冓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=30;fontFamily=MotoyaLMaru;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMotoyaLMaru;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-14" value="&lt;font style=&quot;font-size: 20px&quot;&gt;材,杣,杉,松,梅&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=MotoyaLMaru;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMotoyaLMaru;fontSize=30;flipV=1;size=30;position=0.16;position2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-BRa6T81mQSPYxDjVcSn-15" value="の特徴の平均として「木」が得られる。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
