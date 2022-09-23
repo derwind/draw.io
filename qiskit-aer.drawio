@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="dqudOsXMSFICv_JLVV3p" name="StateVector_Initialization">
-        <mxGraphModel dx="291" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="766" dy="285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -240,7 +240,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="XBzr-M2RMqgCWCsHORJS" name="AerState_state_transition">
-        <mxGraphModel dx="766" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="FKvRg5avlS0RdfHe7xMF-0"/>
                 <mxCell id="FKvRg5avlS0RdfHe7xMF-1" parent="FKvRg5avlS0RdfHe7xMF-0"/>
@@ -295,6 +295,24 @@
                         <mxPoint x="330" y="380" as="targetPoint"/>
                         <mxPoint x="170" y="380" as="sourcePoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="fLDJZnp-Ebwt-p3hf3Er-0" value="initialize(copy=True)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FKvRg5avlS0RdfHe7xMF-1">
+                    <mxGeometry x="140" y="109" width="68" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="fLDJZnp-Ebwt-p3hf3Er-1" value="initialize(copy=False)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FKvRg5avlS0RdfHe7xMF-1">
+                    <mxGeometry x="366" y="109" width="68" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="fLDJZnp-Ebwt-p3hf3Er-2" value="move_to_ndarray" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FKvRg5avlS0RdfHe7xMF-1">
+                    <mxGeometry x="56" y="290" width="98" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="fLDJZnp-Ebwt-p3hf3Er-3" value="sample_memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FKvRg5avlS0RdfHe7xMF-1">
+                    <mxGeometry x="231" y="290" width="98" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="fLDJZnp-Ebwt-p3hf3Er-4" value="sample_memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FKvRg5avlS0RdfHe7xMF-1">
+                    <mxGeometry x="410" y="250" width="98" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="tz1z0M_VxHuYZlOBczkG-0" value="AerState" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="FKvRg5avlS0RdfHe7xMF-1">
+                    <mxGeometry x="16" y="20" width="124" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
