@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T11:20:30.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.8" etag="GJwz8Cxec2QHKoX2-rys" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T11:25:13.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uluS6w5eKBIXnlw66bfI" version="21.1.8" type="github">
   <diagram name="ページ1" id="S3I3RbGFVBSHwpuuW09X">
-    <mxGraphModel>
+    <mxGraphModel dx="668" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kL-Spn03afmkKVbXgQpO-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AAFFFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kL-Spn03afmkKVbXgQpO-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AAFFFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kL-Spn03afmkKVbXgQpO-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9a8ff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kL-Spn03afmkKVbXgQpO-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#8aff92;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kL-Spn03afmkKVbXgQpO-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="kL-Spn03afmkKVbXgQpO-1" target="kL-Spn03afmkKVbXgQpO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="370" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kL-Spn03afmkKVbXgQpO-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9a8ff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kL-Spn03afmkKVbXgQpO-9" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.017;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="120" as="sourcePoint" />
+            <mxPoint x="442" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kL-Spn03afmkKVbXgQpO-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="238" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kL-Spn03afmkKVbXgQpO-11" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.017;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="280" as="sourcePoint" />
+            <mxPoint x="442" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
