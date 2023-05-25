@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T13:43:48.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2_Hc27GGLfNgvSYCagfl" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T14:18:09.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="g_WGh71mlomBGF62A_oc" version="21.3.3" type="github">
   <diagram name="ページ1" id="8gwAxpIwCEioRYELLnGF">
     <mxGraphModel dx="793" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="4GEaAsoPJaUNLczt759W-47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;To integrate numerically functions&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="390" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4GEaAsoPJaUNLczt759W-48" value="For accuracy: ε&lt;br&gt;classical: O(1/ε) operations&lt;br&gt;quantum: O(1/ε&lt;sup&gt;2&lt;/sup&gt;) operations" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4GEaAsoPJaUNLczt759W-48" value="For accuracy: ε&lt;br&gt;classical: O(1/ε&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;2&lt;/sup&gt;)&amp;nbsp;operations&lt;br&gt;quantum: O(1/ε) operations" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="440" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4GEaAsoPJaUNLczt759W-49" value="(metaheuristics)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
