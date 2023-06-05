@@ -1,0 +1,187 @@
+<mxfile host="app.diagrams.net" modified="2023-05-25T14:18:09.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="g_WGh71mlomBGF62A_oc" version="21.3.3" type="github">
+  <diagram name="ページ1" id="8gwAxpIwCEioRYELLnGF">
+    <mxGraphModel dx="793" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4GEaAsoPJaUNLczt759W-1" value="Quantum Fourier transformation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-2" value="Quantum Phase Estimation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-3" value="Shor&#39;s&amp;nbsp;algorithm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-4" value="HHL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-5" value="Quantum Amplitude Amplification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-6" value="Grover&#39;s&amp;nbsp;algorithm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-7" value="Quantum Amplitude Estimation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-1" target="4GEaAsoPJaUNLczt759W-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="250" as="sourcePoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-2" target="4GEaAsoPJaUNLczt759W-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="330" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-2" target="4GEaAsoPJaUNLczt759W-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="220" as="sourcePoint" />
+            <mxPoint x="350" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-14" value="Quantum Numerical Integration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-7" target="4GEaAsoPJaUNLczt759W-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="330" as="sourcePoint" />
+            <mxPoint x="610" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-16" value="Finance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-17" value="cryptography" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-18" value="QAOA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-19" value="VQE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-20" value="combinational optimization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-21" value="chemistry&lt;br&gt;machine learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="445" y="780" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-22" value="Parametrized Quantum Circuit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-23" value="Suzuki-Trotter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-23" target="4GEaAsoPJaUNLczt759W-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="540" as="sourcePoint" />
+            <mxPoint x="420" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="4GEaAsoPJaUNLczt759W-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="740" as="sourcePoint" />
+            <mxPoint x="420" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-22" target="4GEaAsoPJaUNLczt759W-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="540" as="sourcePoint" />
+            <mxPoint x="420" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-27" value="Feature Map" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-28" value="Quantum Kernel SVM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-22" target="4GEaAsoPJaUNLczt759W-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="800" as="sourcePoint" />
+            <mxPoint x="390" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-27" target="4GEaAsoPJaUNLczt759W-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="800" as="sourcePoint" />
+            <mxPoint x="390" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-31" value="machine learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="445" y="900" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="500" as="sourcePoint" />
+            <mxPoint x="760" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-34" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;FTQC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="50" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-35" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;NISQ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="50" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;To factorize given N&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="40" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-38" value="classical: Sub-exp time in N&lt;br&gt;quantum: O(poly(log N))" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-39" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;To solve equations&lt;br&gt;i.e. invert NxN matrices&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="158" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-40" value="classical: O(N)&lt;br&gt;quantum: O(poly(log N))" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-41" value="* when a martix is sparse" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="224" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;To search an element from unstructured DB with N elements&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="277" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-44" value="classical: O(N)&lt;br&gt;quantum: O(N&lt;sup&gt;1/2&lt;/sup&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="330" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-5" target="4GEaAsoPJaUNLczt759W-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="610" as="sourcePoint" />
+            <mxPoint x="430" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="4GEaAsoPJaUNLczt759W-7" target="4GEaAsoPJaUNLczt759W-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="610" as="sourcePoint" />
+            <mxPoint x="430" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;To integrate numerically functions&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="390" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-48" value="For accuracy: ε&lt;br&gt;classical: O(1/ε&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;2&lt;/sup&gt;)&amp;nbsp;operations&lt;br&gt;quantum: O(1/ε) operations" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="440" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-49" value="(metaheuristics)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="625" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-50" value="(metaheuristics)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="755" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;To optimize combinations&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="600" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-52" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;To solve the eigen value of the grpund-state&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="720" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GEaAsoPJaUNLczt759W-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;To classify data&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="855" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
